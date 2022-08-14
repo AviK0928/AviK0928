@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AviK0928
+- 👋 Hi, I’m Aviraj Khanchi (@AviK0928)
 - 👀 I’m interested in Competitive Coding, Software Development, Logic Building etc
 - 🌱 I’m currently learning C++, Java
 - 💞️ I’m looking to collaborate on Nothing Currently :(
